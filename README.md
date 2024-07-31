@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# Convert Consignly Schedule to B360 Format
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Via Streamlit.
+Input: Consignly Transaction Schedule
+Output: B360 Schedule format
 
 ### How to run it on your own machine
 
